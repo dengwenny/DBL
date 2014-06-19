@@ -1,4 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\DBL\DBL\bin\Debug\DBL.dll
-D:\Documents\Visual Studio 2010\Projects\DBL\DBL\bin\Debug\DBL.pdb
-D:\Documents\Visual Studio 2010\Projects\DBL\DBL\obj\Debug\DBL.dll
-D:\Documents\Visual Studio 2010\Projects\DBL\DBL\obj\Debug\DBL.pdb
