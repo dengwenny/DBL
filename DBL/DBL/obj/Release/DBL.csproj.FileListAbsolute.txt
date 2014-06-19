@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\DBL\DBL\bin\Release\DBL.dll
+D:\Documents\Visual Studio 2010\Projects\DBL\DBL\bin\Release\DBL.pdb
+D:\Documents\Visual Studio 2010\Projects\DBL\DBL\obj\Release\DBL.dll
+D:\Documents\Visual Studio 2010\Projects\DBL\DBL\obj\Release\DBL.pdb
